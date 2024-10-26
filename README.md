@@ -5,7 +5,7 @@ This repository has projects and resources from the Web Design course. It focuse
 ## Resources
 For more information, visit the [Official Course Page](https://mediaarts.humber.ca/programs/web-development.html).
 
-[Web Design](./Web_Design_and_Development.webp)
+![Web Design](https://www.webhopers.com/wp-content/uploads/2020/02/Web-Development-Web-Designing-Company-in-Manimajra-1200x480.jpg)
 
 > **Info:** Consistency in design elements helps create a more cohesive user experience.
 
